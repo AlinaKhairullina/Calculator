@@ -1,6 +1,6 @@
 # Calculator 
 ***
-** A logical calculator that introduces operations &&, ||, ! , brackets and all integers.**
+**A logical calculator that introduces operations &&, ||, ! , brackets and all integers.**
 ----------
 **The calculator consists of two programs : translator and calculator itself**
 ---
