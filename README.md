@@ -12,6 +12,6 @@
 * Calculator, which calculates the value of an expression using postfix notation.
    File "main2.c" calculates the value.
 ---
-* In "lib" you can see the file "translator.h" with names of functions used in main1.c.**
-* In "src" you can see the file "trans.c" with functions used in main1.c.**
+* In "lib" you can see the file "translator.h" with names of functions used in main1.c.
+* In "src" you can see the file "trans.c" with functions used in main1.c.
 
